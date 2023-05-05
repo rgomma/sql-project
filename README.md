@@ -15,4 +15,4 @@ For this project, data was collected from two main sources. The first source was
 <p>Perfomed my analysis with sql inside a jupyter notebook.
   
 ## Future Improvments 
-Would have collected data from more than 1 year and aalyzed more advanced stats to see if they provided a better insight.
+Would have collected data from more than 1 year and anlyzed more advanced stats to see if they provided a better insight.
