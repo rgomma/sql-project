@@ -10,8 +10,8 @@ The characteristics of the data used for this project included various challenge
 ## Notebooks
 Links to the notebook and a description of the notebook's purpose
 data_collection.ipynb https://github.com/rgomma/sql-project/blob/main/data_collection.ipynb
-  used to web scrape baseball-reference and import datasets into aws rds mysql server
+Used to web scrape baseball-reference and import datasets into aws rds mysql server.
 sql_analysis.ipynb https://github.com/rgomma/sql-project/blob/main/sql_analysis.ipynb
-  perfomed my analysis with sql inside a jupyter notebook
+Perfomed my analysis with sql inside a jupyter notebook.
 ## Future Improvements
 Would have collected data from more than 1 year and aalyzed more advanced stats to see if they provided a better insight.
