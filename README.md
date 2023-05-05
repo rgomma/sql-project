@@ -7,10 +7,12 @@ The San Francisco Giants are a Major League Baseball team based in San Francisco
 For this project, data was collected from two main sources. The first source was basketball-reference, which was web scraped to obtain stats for overall 2022 season batting as well as batting splits against left-handed pitchers and right-handed pitchers. This data provided information on how players performed throughout the season and against specific types of pitchers.
 <p>The second source of data was baseball savant, where publicly available data was downloaded in CSV format. The data was filtered to identify performance of players in critical game situations where there was a chance to tie or take the lead. This data provided insight into how players performed in high-pressure situations and was used to determine which players had historically performed well in these situations.
 <p>The characteristics of the data used for this project included various challenges such as unnecessary data in tables, no primary keys on baseball-reference, and the need for data from multiple web pages. Despite these challenges, the data provided valuable insights into player performance in high-pressure situations, which allowed me to provide insights.
+  
 ## Notebooks
 <p>data_collection.ipynb https://github.com/rgomma/sql-project/blob/main/data_collection.ipynb
 <p>Used to web scrape baseball-reference and import datasets into aws rds mysql server.
 <p>sql_analysis.ipynb https://github.com/rgomma/sql-project/blob/main/sql_analysis.ipynb
 <p>Perfomed my analysis with sql inside a jupyter notebook.
-  ## Future Improvments 
+  
+## Future Improvments 
 Would have collected data from more than 1 year and aalyzed more advanced stats to see if they provided a better insight.
