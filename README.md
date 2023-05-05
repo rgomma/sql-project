@@ -8,7 +8,7 @@ For this project, data was collected from two main sources. The first source was
 <p>The second source of data was baseball savant, where publicly available data was downloaded in CSV format. The data was filtered to identify performance of players in critical game situations where there was a chance to tie or take the lead. This data provided insight into how players performed in high-pressure situations and was used to determine which players had historically performed well in these situations.
 <p>The characteristics of the data used for this project included various challenges such as unnecessary data in tables, no primary keys on baseball-reference, and the need for data from multiple web pages. Despite these challenges, the data provided valuable insights into player performance in high-pressure situations, which allowed me to provide insights.
 ## Notebooks
-data_collection.ipynb https://github.com/rgomma/sql-project/blob/main/data_collection.ipynb
+<p>data_collection.ipynb https://github.com/rgomma/sql-project/blob/main/data_collection.ipynb
 <p>Used to web scrape baseball-reference and import datasets into aws rds mysql server.
 <p>sql_analysis.ipynb https://github.com/rgomma/sql-project/blob/main/sql_analysis.ipynb
 <p>Perfomed my analysis with sql inside a jupyter notebook.
