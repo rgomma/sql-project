@@ -1,4 +1,4 @@
-# SF Giants Clutch Batting Analysis --sql-project
+# SF Giants Clutch Batting Analysis (SQL project)
 ## Project Objective
 The project objective is to identify which players perform the best in the later stages of close games with the opportunity to take the lead or tie. The problem this project aims to solve is to help the San Francisco Giants make informed decisions about player selection and deployment during critical game situations. By analyzing data from the 2022 season, the project will determine which players have historically performed the best in these situations and provide insights to the baseball operations team.
 ## Baseball Operations Analyst SF Giants 
